@@ -1,12 +1,12 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
+layout: ../../../layouts/MarkdownPostLayout.astro
 title: 'First Blog Post'
 pubDate: 2026-08-15
 description: 'This is a test post aroind which to style and test stuff.'
 author: 'Toby Eglesfield'
 image:
-    url: 'src/assets/images/lake-dunstan-winter.jpg'
-    alt: 'The Astro logo on a dark background with a pink glow.'
+    url: './images/lake-dunstan-winter.jpg'
+    alt: 'A photo across Lake Dunstan at.'
 tags: ["blogging", "making-a-blog"]
 ---
 

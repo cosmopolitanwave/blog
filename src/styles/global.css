@@ -18,6 +18,11 @@ h2 {
     margin-top: 1.3rem;
 }
 
+.fit-picture {
+    max-width: 100%;
+    height: auto;
+}
+
 * nav styles */
 .menu {
   background-color: #0d0950;
